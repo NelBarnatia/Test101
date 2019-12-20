@@ -10,7 +10,19 @@ namespace ConsoleTest101
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("testetstete");
+            Console.WriteLine("ERON");
+            Console.WriteLine("ERON");
+            Console.WriteLine("ERON");
+            Console.WriteLine("ERON");
+            Console.WriteLine("ERON");
+            Console.WriteLine("ERON");
+            Console.WriteLine("ERON");
+            Console.WriteLine("ERON");
+            Console.WriteLine("ERON");
+            Console.WriteLine("ERON");
+            Console.WriteLine("ERON");
+            Console.WriteLine("ERON");
+            Console.WriteLine("ERON");
         }
     }
 }
